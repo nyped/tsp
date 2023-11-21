@@ -1,0 +1,4 @@
+*.o
+assets
+*.json
+.cache
